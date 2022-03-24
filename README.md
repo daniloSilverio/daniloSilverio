@@ -1,4 +1,4 @@
-### <h1> Hi there!!</h1>
+### <h1> Hi there!</h1>
 My name's Danilo Silvério and I'm FullStack Web Developer Student.
 ##
 
